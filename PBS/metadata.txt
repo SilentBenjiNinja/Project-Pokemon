@@ -16,7 +16,7 @@ WildBattleBGM=Battle wild.mid
 [002]
 # Lappet Town
 MapPosition=0,13,12
-Outdoor=true
+Outdoor=false
 ShowArea=true
 #-------------------------------
 [003]
