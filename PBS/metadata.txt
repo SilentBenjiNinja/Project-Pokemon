@@ -7,7 +7,7 @@ WildVictoryME=Battle victory wild.ogg
 TrainerBattleBGM=Battle trainer.mid
 SurfBGM=Surfing.mid
 BicycleBGM=Bicycle.mid
-Home=3,7,5,8
+Home=79,9,4,8
 WildBattleBGM=Battle wild.mid
 #-------------------------------
 [001]
@@ -16,7 +16,7 @@ WildBattleBGM=Battle wild.mid
 [002]
 # Lappet Town
 MapPosition=0,13,12
-Outdoor=false
+Outdoor=true
 ShowArea=true
 #-------------------------------
 [003]
