@@ -46,3 +46,5 @@
 84,West,0,33,East,65
 # Route2 (84) - route1 (83)
 84,West,0,83,East,30
+# route3 (85) - Route2 (84)
+85,West,0,84,East,31

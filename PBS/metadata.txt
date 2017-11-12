@@ -2,13 +2,13 @@
 [000]
 PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf,boy_run,boy_surf,boy_fish_offset,xxx
 PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,xxx
-TrainerVictoryME=Battle victory trainer.ogg
-WildVictoryME=Battle victory wild.ogg
-TrainerBattleBGM=Battle trainer.mid
+TrainerVictoryME=VictoryTrainer.wav
+WildVictoryME=VictoryWild.wav
+TrainerBattleBGM=BattleTariner.wav
 SurfBGM=Surfing.mid
 BicycleBGM=Bicycle.mid
 Home=79,9,4,8
-WildBattleBGM=Battle wild.mid
+WildBattleBGM=BattleWild.wav
 #-------------------------------
 [001]
 # Intro
@@ -383,3 +383,7 @@ ShowArea=true
 # Route2
 Outdoor=true
 ShowArea=true
+#-------------------------------
+[085]
+# route3
+Outdoor=true
