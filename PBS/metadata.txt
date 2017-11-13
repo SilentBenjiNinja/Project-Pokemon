@@ -4,7 +4,7 @@ PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf,boy_run,boy_surf,boy_fish
 PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,xxx
 TrainerVictoryME=VictoryTrainer.wav
 WildVictoryME=VictoryWild.wav
-TrainerBattleBGM=BattleTariner.wav
+TrainerBattleBGM=BattleTrainer.wav
 SurfBGM=Surfing.mid
 BicycleBGM=Bicycle.mid
 Home=79,9,4,8
@@ -156,7 +156,7 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [033]
-# Startertown
+# Gladeville
 Outdoor=true
 ShowArea=true
 #-------------------------------
@@ -387,3 +387,12 @@ ShowArea=true
 [085]
 # route3
 Outdoor=true
+#-------------------------------
+[086]
+# Ridgeton Valley
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[087]
+# Ridgeton Poké Center
+HealingSpot=86,27,29

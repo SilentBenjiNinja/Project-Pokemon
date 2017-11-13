@@ -40,11 +40,13 @@
 81,East,0,82,West,0
 # Grass (81) - Fire (80)
 81,West,0,80,East,0
-# route1 (83) - Startertown (33)
+# route1 (83) - Gladeville (33)
 83,North,0,33,South,0
-# Route2 (84) - Startertown (33)
+# Route2 (84) - Gladeville (33)
 84,West,0,33,East,65
 # Route2 (84) - route1 (83)
 84,West,0,83,East,30
 # route3 (85) - Route2 (84)
 85,West,0,84,East,31
+# Ridgeton Valley (86) - route3 (85)
+86,North,35,85,South,0
